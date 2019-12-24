@@ -4,6 +4,10 @@
 
 ## ch2 request / response cycle
 
+    ```go
+    r, err := http.Get("http://www.google.com/)
+    ```
+
 ## ch3 web scraping etiquette
 
 ## ch4 parsing html
